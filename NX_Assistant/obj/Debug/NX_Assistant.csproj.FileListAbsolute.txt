@@ -1,0 +1,71 @@
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.config
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.pdb
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csprojAssemblyReference.cache
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Form1.resources
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Properties.Resources.resources
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.GenerateResource.cache
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.pdb
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.manifest
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.application
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe.manifest
+C:\Users\Ivaylo\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.application
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Form1.resources
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Properties.Resources.resources
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.pdb
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.config
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.manifest
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.application
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.pdb
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe.manifest
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.application
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\Resources\pin-icon.png
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\Resources\pin-icon1.png
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user.png
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user2.png
+C:\Users\Home\source\repos\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user1.png
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\Resources\pin-icon.png
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\Resources\pin-icon1.png
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user.png
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user2.png
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user1.png
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.config
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.manifest
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.application
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.pdb
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csprojAssemblyReference.cache
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Form1.resources
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Properties.Resources.resources
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.GenerateResource.cache
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.CoreCompileInputs.cache
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe.manifest
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.application
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe
+\\DC\Folders$\ik018870\Documents\Visual Studio 2019\Backup Files\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.pdb
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\Resources\pin-icon.png
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\Resources\pin-icon1.png
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user.png
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user2.png
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\Resources\multy-user1.png
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.config
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe.manifest
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.application
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.exe
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\bin\Debug\NX_Assistant.pdb
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csprojAssemblyReference.cache
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Form1.resources
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.Properties.Resources.resources
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.GenerateResource.cache
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.csproj.CoreCompileInputs.cache
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe.manifest
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.application
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.exe
+\\fs\Staff\Individual\Ivaylo Kuzmanov\NX_Assistant\Repo\NX_Assistant\NX_Assistant\obj\Debug\NX_Assistant.pdb
